@@ -1,0 +1,38 @@
+.redblock {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+
+.yellowblock {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+}
+
+
+/* .block {
+    display: inline-block;
+    padding: 20px 20px;
+    border: 1px solid black;
+} */
+
+/* .block {
+    display: inline-block;
+    padding: 30px 30px;
+    background-color: rgb(138, 138, 138);
+    margin-left: -80px;
+    transition: 2s;
+}
+
+.button {
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+}
+
+.hidden {
+    margin-left: 0;
+} */
